@@ -1,2 +1,2 @@
 # IoTServicePlatform
-Build a platform for IoT services. 
+Build a PKI platform for IoT services. 
